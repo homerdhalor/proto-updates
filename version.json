@@ -1,0 +1,6 @@
+{
+  "version": "5.0.7",
+  "windows_url": "https://github.com/homerdhalor/proto-updates/releases/download/v5.0.7/PROTO_Scanner_v5.0.7_Setup.exe",
+  "apk_url": "https://github.com/homerdhalor/proto-updates/releases/download/v5.0.7/app-release5.0.7.apk",
+  "changelog": "- Fix stream info Xtream\n- Login/pass séparés\n- Navigation catégories\n- Gestion comptes"
+}
