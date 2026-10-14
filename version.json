@@ -1,6 +1,6 @@
 {
   "version": "5.0.9",
-  "windows_url": "https://github.com/homerdhalor/proto-updates/releases/download/v5.0.8/PROTO_Scanner_v5.0.9_Setup.exe",
-  "apk_url": "https://github.com/homerdhalor/proto-updates/releases/download/v5.0.8/app-releaseV5.0.9.apk",
+  "windows_url": "https://github.com/homerdhalor/proto-updates/releases/download/v5.0.9/PROTO_Scanner_v5.0.9_Setup.exe",
+  "apk_url": "https://github.com/homerdhalor/proto-updates/releases/download/v5.0.9/app-releaseV5.0.9.apk",
   "changelog": "Bannière mise à jour dans le panneau droit\nFix stream info Xtream\nLogin/pass séparés dans les hits"
 }
