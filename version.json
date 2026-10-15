@@ -3,5 +3,5 @@
   "version_apk": "5.1.1",
   "windows_url": "https://github.com/homerdhalor/proto-updates/releases/download/v5.1.1/PROTO_Scanner_v5.1.1_Setup.exe",
   "apk_url": "https://github.com/homerdhalor/proto-updates/releases/download/v5.1.1/app-releaseV5.1.1.apk",
-  "changelog": "Bannière mise à jour dans le panneau droit\nFix stream info Xtream\nLogin/pass séparés dans les hits"
+  "changelog": "Onglet VOD ajouté à la navigation"
 }
