@@ -1,7 +1,7 @@
 {
-  "version_windows": "5.1.2",
-  "version_apk": "5.1.2",
-  "windows_url": "https://github.com/homerdhalor/proto-updates/releases/download/v5.1.2/PROTO_Scanner_v5.1.2_Setup.exe",
-  "apk_url": "https://github.com/homerdhalor/proto-updates/releases/download/v5.1.2/app-releaseV5.1.2.apk",
+  "version_windows": "5.1.3",
+  "version_apk": "5.1.3",
+  "windows_url": "https://github.com/homerdhalor/proto-updates/releases/download/v5.1.3/PROTO_Scanner_v5.1.3_Setup.exe",
+  "apk_url": "https://github.com/homerdhalor/proto-updates/releases/download/v5.1.3/app-releaseV5.1.3.apk",
   "changelog": "bouton stop mod avion"
 }
