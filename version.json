@@ -1,7 +1,7 @@
 {
-  "version_windows": "5.1.5",
-  "version_apk": "5.1.5A",
-  "windows_url": "https://github.com/homerdhalor/proto-updates/releases/download/v5.1.5/PROTO_Scanner_v5.1.5_Setup.exe",
-  "apk_url": "https://github.com/homerdhalor/proto-updates/releases/download/v5.1.5A/app-releaseV5.1.5A.apk",
-  "changelog": "synchro mod avion airplane"
+  "version_windows": "5.1.7",
+  "version_apk": "5.1.7",
+  "windows_url": "https://github.com/homerdhalor/proto-updates/releases/download/v5.1.7/PROTO_Scanner_v5.1.7_Setup.exe",
+  "apk_url": "https://github.com/homerdhalor/proto-updates/releases/download/v5.1.7/app-releaseV5.1.7.apk",
+  "changelog": "mod android aiplane"
 }
