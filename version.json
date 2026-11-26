@@ -1,7 +1,7 @@
 {
-  "version_windows": "5.1.8",
-  "version_apk": "5.1.8",
-  "windows_url": "https://github.com/homerdhalor/proto-updates/releases/download/v5.1.8/PROTO_Scanner_v5.1.8_Setup.exe",
-  "apk_url": "https://github.com/homerdhalor/proto-updates/releases/download/v5.1.8/app-releaseV5.1.8.apk",
+  "version_windows": "5.2.0",
+  "version_apk": "5.2.0",
+  "windows_url": "https://github.com/homerdhalor/proto-updates/releases/download/v5.2.0/PROTO_Scanner_v5.2.0_Setup.exe",
+  "apk_url": "https://github.com/homerdhalor/proto-updates/releases/download/v5.2.0/app-release.V5.2.0.apk",
   "changelog": "statistic"
 }
